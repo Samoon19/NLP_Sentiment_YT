@@ -59,7 +59,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn torch transformers acce
 ## Usage
 ```bash
 # Place train.csv in the working directory, then run:
-python sentiment_analysis.py
+jupyter notebook sentiment_analysis.ipynb
 ```
 
 ---
